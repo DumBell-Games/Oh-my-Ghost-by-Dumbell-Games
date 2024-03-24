@@ -15,7 +15,7 @@ La mecánica de Oh my Ghost!, se basa en la posesión de cuerpos para conseguir 
 - Rafael Esquius (Tecinal Artist) | [Github](https://github.com/SRRafael8)
 - Alexandra Enache (Graphic Designer - Music Designer - Scenery Designer - Animation) | [Github](https://github.com/alexandrae01)
 - Addaia Ferres (Music Designer - Character Designer - Animation) | [Github](https://github.com/booStudiooEdu)
-- Marc Gil (Animation) | [Github](https://github.com/markiiish)
+- Marc Gil (Animation - Characters Designer) | [Github](https://github.com/markiiish)
 - Marc Gimenez (Scenery Designer - Animation - Graphic Designer) | [Github](https://github.com/kithus)
 - Pau Hernández (Level Designer - UI) | [Github](https://github.com/PauHeer)
 - Ferran Llobet (Gameplay Programmer) | [Github](https://github.com/Ferran-LX)
