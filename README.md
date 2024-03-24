@@ -1,6 +1,4 @@
-# Oh my Ghost by Dumbell Games
-
-## Descripción
+# Descripción
 
 Nuestro juego gira en torno a una crítica del funcionamiento de la sociedad actual, a través de la invención de una sociedad ficticia formada por animales y gobernada por superhéroes. 
 
@@ -8,7 +6,7 @@ Utilizamos el contraste entre una estética cartoon, divertida y aparentemente i
 
 La mecánica de Oh my Ghost!, se basa en la posesión de cuerpos para conseguir habilidades usadas en combates por turnos característicos en los RPG combinada con la estética e inspiración de los cómics tradicionales americanos. 
 
-## Equipo (Ordenado A-Z)
+# Equipo (Ordenado A-Z)
 - Emma Calero (Animation - Characters Designer) | [Github](https://github.com/emmaacalero)
 - Bernat Cifuentes (UI - Level Designer) | [Github](https://github.com/itsBernii)
 - Aina Cuffí (Scenery Designer - Animation) | [Github](https://github.com/ainact)
