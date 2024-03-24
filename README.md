@@ -29,7 +29,7 @@ La mecánica de Oh my Ghost!, se basa en la posesión de cuerpos para conseguir 
 - Gemma Zahinos (Scrum Master - Animation - Character Designer) | [Github](https://github.com/GemmaUPC)
 
 # Documentation
-- GDD: [GDD - Dumbell Games - Oh my Ghost](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14736459/GDD.-.Dumbell.Games.-.Oh.my.GhostI.pdf)
+- GDD: [GDD Dumbell Games Oh my Ghost](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14736459/GDD.-.Dumbell.Games.-.Oh.my.GhostI.pdf)
 - TDD: [TDD Dumbell Games Oh my Ghost](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14735433/TDD.-.Dumbell.Games.-.Oh.my.Ghost.pdf)
 - Production Plan:
      - Gant Chart: [Gantt Chart Dumbell Games Oh my Ghost](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14735443/Gantt.Chart.Dumbell.Games.Oh.my.Ghost.-.Gantt.Chart.pdf)
