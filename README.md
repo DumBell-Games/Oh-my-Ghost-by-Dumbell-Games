@@ -28,3 +28,8 @@ La mecánica de Oh my Ghost!, se basa en la posesión de cuerpos para conseguir 
 - Ana Clara Sousa (Scrum Master - Animation - Character Designer) | [Github](https://github.com/Prilipimpim)
 - Gemma Zahinos (Scrum Master - Animation - Character Designer) | [Github](https://github.com/GemmaUPC)
 
+# Documentación
+- GDD:
+- TDD:
+- Production Plan: 
+
