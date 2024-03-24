@@ -1,3 +1,6 @@
+![PHOTO-2024-03-23-18-41-15](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/assets/118179227/d74794ef-1c42-47f0-8160-a2f17f2c6e9c)
+
+
 # Descripción
 
 Nuestro juego gira en torno a una crítica del funcionamiento de la sociedad actual, a través de la invención de una sociedad ficticia formada por animales y gobernada por superhéroes. 
