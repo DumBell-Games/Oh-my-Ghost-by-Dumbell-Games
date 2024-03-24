@@ -35,6 +35,8 @@ La mecánica de Oh my Ghost!, se basa en la posesión de cuerpos para conseguir 
      - Gant Chart: [Gantt Chart Dumbell Games Oh my Ghost](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14735443/Gantt.Chart.Dumbell.Games.Oh.my.Ghost.-.Gantt.Chart.pdf)
      - Risk and contingency list: [Risk and contingency list Dumbell Games Oh my Ghost](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14735448/Risk.and.contingency.list.pdf)
      - Available Resources: [Available resources Dumbell Games Oh my Ghost](https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14735453/Available.resources.pdf)
+ - Pitch Presentation: [Pitch Presentation Dumbell Games Oh my Ghost]([https://github.com/DumBell-Games/Oh-my-Ghost-by-Dumbell-Games/files/14735453/Available.resources.pdf](https://drive.google.com/file/d/1srEDK2IqBBnU9PVlg2t8uP67t1OhiAMt/view?usp=drive_link)https://drive.google.com/file/d/1srEDK2IqBBnU9PVlg2t8uP67t1OhiAMt/view?usp=drive_link)
+   
 
  
   
